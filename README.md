@@ -23,9 +23,9 @@
     19) create configMap.yml and paste the below code and run the below command :
     kubectl create -f configMap.yml -n monitoring
         
-apiVersion: v1
-kind: ConfigMap
-metadata:
+    apiVersion: v1
+    kind: ConfigMap
+    metadata:
   name: grafana-datasources
   namespace: monitoring
 data:
