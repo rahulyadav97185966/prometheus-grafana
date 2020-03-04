@@ -1,4 +1,16 @@
 # prometheus-grafana
+
+(
+peomethesis and Grafana for analysis of pods and checking usage and others in web console
+
+https://codebunk.com/b/2881100061989/
+
+
+sir's link
+
+https://codebunk.com/b/6691100061976/
+)
+
     1  kubectl create namespace monitoring
     4  kubectl get namespace
     5  clear
